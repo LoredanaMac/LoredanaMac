@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoredanaMac
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me ..
